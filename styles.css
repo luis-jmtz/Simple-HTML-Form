@@ -41,3 +41,10 @@ input, textarea, select{
   margin-left:0;
   margin-right:0;
 }
+
+
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
