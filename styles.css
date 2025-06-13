@@ -43,6 +43,11 @@ input, textarea, select{
   min-height: 2em;
 }
 
+input[type="submit"]{
+  display:block;
+  width:60%;
+}
+
 
 .inline {
   width: unset;
